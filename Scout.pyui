@@ -1,0 +1,677 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{164, 6}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{85, 224}, {150, 32}}",
+          "uuid" : "90AC4138-B397-479E-BF8D-EB68BA33F1E4",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Avg. Cones MBG",
+          "name" : "",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 6}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{85, 224}, {150, 32}}",
+          "uuid" : "90AC4138-B397-479E-BF8D-EB68BA33F1E4",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Total Cones",
+          "font_size" : 18,
+          "name" : ""
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 46}, {32, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{85, 224}, {150, 32}}",
+          "uuid" : "90AC4138-B397-479E-BF8D-EB68BA33F1E4",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "0",
+          "font_size" : 18,
+          "name" : "coneTxt"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{164, 46}, {30, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{85, 224}, {150, 32}}",
+          "uuid" : "90AC4138-B397-479E-BF8D-EB68BA33F1E4",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "0",
+          "font_size" : 18,
+          "name" : "mbgTxt"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{164, 410}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{85, 224}, {150, 32}}",
+          "title" : "Button",
+          "uuid" : "90AC4138-B397-479E-BF8D-EB68BA33F1E4",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Preloads",
+          "font_size" : 18,
+          "name" : ""
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 86}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "",
+          "frame" : "{{85, 224}, {150, 32}}",
+          "uuid" : "90AC4138-B397-479E-BF8D-EB68BA33F1E4",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Highest Spire",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{164, 86}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{85, 224}, {150, 32}}",
+          "uuid" : "90AC4138-B397-479E-BF8D-EB68BA33F1E4",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Highest Ground G",
+          "font_size" : 18,
+          "name" : "groundTxt"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 126}, {32, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "spireTxt",
+          "frame" : "{{85, 224}, {150, 32}}",
+          "uuid" : "90AC4138-B397-479E-BF8D-EB68BA33F1E4",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "0",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{164, 126}, {30, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "gTxt",
+          "frame" : "{{85, 224}, {150, 32}}",
+          "uuid" : "90AC4138-B397-479E-BF8D-EB68BA33F1E4",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "0",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 166}, {248, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "label1",
+          "frame" : "{{85, 224}, {150, 32}}",
+          "uuid" : "A05510FF-5C8E-4FAA-930E-CDEA555FBF70",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "MBG Avg. Time",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 248}, {248, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "label2",
+          "frame" : "{{85, 224}, {150, 32}}",
+          "uuid" : "070BB1BF-20ED-4ECF-90B8-D0C0C512741A",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Avg. Time\/Cone",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{202, 126}, {52, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "self.tapBtn",
+          "image_name" : "iob:minus_round_24",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "title" : "",
+          "uuid" : "80B39A1D-0BC2-4CB9-A4A1-81C5EC4A24B8",
+          "font_bold" : true,
+          "class" : "Button",
+          "name" : "hgm",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{262, 126}, {52, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "self.tapBtn",
+          "image_name" : "iob:plus_round_24",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "title" : "",
+          "class" : "Button",
+          "font_bold" : true,
+          "uuid" : "80B39A1D-0BC2-4CB9-A4A1-81C5EC4A24B8",
+          "font_size" : 15,
+          "name" : "hgp"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{202, 46}, {52, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "self.tapBtn",
+          "image_name" : "iob:minus_round_24",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "title" : "",
+          "class" : "Button",
+          "font_bold" : true,
+          "uuid" : "80B39A1D-0BC2-4CB9-A4A1-81C5EC4A24B8",
+          "font_size" : 15,
+          "name" : "cmm"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{262, 46}, {52, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "self.tapBtn",
+          "image_name" : "iob:plus_round_24",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "title" : "",
+          "class" : "Button",
+          "font_bold" : true,
+          "uuid" : "80B39A1D-0BC2-4CB9-A4A1-81C5EC4A24B8",
+          "font_size" : 15,
+          "name" : "cmp"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{104, 46}, {52, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "self.tapBtn",
+          "image_name" : "iob:plus_round_24",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "title" : "",
+          "uuid" : "80B39A1D-0BC2-4CB9-A4A1-81C5EC4A24B8",
+          "font_bold" : true,
+          "class" : "Button",
+          "name" : "tcp",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{104, 126}, {52, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "self.tapBtn",
+          "image_name" : "iob:plus_round_24",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "title" : "",
+          "uuid" : "80B39A1D-0BC2-4CB9-A4A1-81C5EC4A24B8",
+          "font_bold" : true,
+          "class" : "Button",
+          "name" : "hsp",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{46, 126}, {52, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "self.tapBtn",
+          "image_name" : "iob:minus_round_24",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "title" : "",
+          "uuid" : "80B39A1D-0BC2-4CB9-A4A1-81C5EC4A24B8",
+          "font_bold" : true,
+          "class" : "Button",
+          "name" : "hsm",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{46, 46}, {52, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "self.tapBtn",
+          "image_name" : "iob:minus_round_24",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "title" : "",
+          "class" : "Button",
+          "font_bold" : true,
+          "uuid" : "80B39A1D-0BC2-4CB9-A4A1-81C5EC4A24B8",
+          "font_size" : 15,
+          "name" : "tcm"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 206}, {308, 34}}",
+        "class" : "Slider",
+        "attributes" : {
+          "action" : "self.slide",
+          "flex" : "W",
+          "continuous" : true,
+          "frame" : "{{60, 223}, {200, 34}}",
+          "uuid" : "7DB5AA8B-AD95-4CED-AF51-7291AE21E2BC",
+          "class" : "Slider",
+          "value" : 0,
+          "name" : "mbgSlider"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 288}, {308, 34}}",
+        "class" : "Slider",
+        "attributes" : {
+          "flex" : "W",
+          "action" : "self.slide",
+          "continuous" : true,
+          "frame" : "{{60, 223}, {200, 34}}",
+          "class" : "Slider",
+          "uuid" : "7DB5AA8B-AD95-4CED-AF51-7291AE21E2BC",
+          "value" : 0,
+          "name" : "coneSlider"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 330}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "",
+          "frame" : "{{85, 224}, {150, 32}}",
+          "uuid" : "90AC4138-B397-479E-BF8D-EB68BA33F1E4",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "MBG 20",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{164, 330}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{85, 224}, {150, 32}}",
+          "uuid" : "90AC4138-B397-479E-BF8D-EB68BA33F1E4",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "MBG 10",
+          "name" : "",
+          "font_size" : 18
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 410}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{85, 224}, {150, 32}}",
+          "uuid" : "90AC4138-B397-479E-BF8D-EB68BA33F1E4",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "MBG 5",
+          "name" : "",
+          "font_size" : 18
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 370}, {32, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "20Txt",
+          "frame" : "{{85, 224}, {150, 32}}",
+          "uuid" : "90AC4138-B397-479E-BF8D-EB68BA33F1E4",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "0",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{44, 370}, {52, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "self.tapBtn",
+          "font_size" : 15,
+          "frame" : "{{120, 224}, {80, 32}}",
+          "title" : "",
+          "uuid" : "80B39A1D-0BC2-4CB9-A4A1-81C5EC4A24B8",
+          "font_bold" : true,
+          "class" : "Button",
+          "name" : "m20m",
+          "image_name" : "iob:minus_round_24"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{202, 370}, {52, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "self.tapBtn",
+          "font_size" : 15,
+          "frame" : "{{120, 224}, {80, 32}}",
+          "title" : "",
+          "uuid" : "80B39A1D-0BC2-4CB9-A4A1-81C5EC4A24B8",
+          "font_bold" : true,
+          "class" : "Button",
+          "name" : "m10m",
+          "image_name" : "iob:minus_round_24"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{164, 370}, {32, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{85, 224}, {150, 32}}",
+          "uuid" : "90AC4138-B397-479E-BF8D-EB68BA33F1E4",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "0",
+          "name" : "10Txt",
+          "font_size" : 18
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{104, 370}, {52, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "self.tapBtn",
+          "font_size" : 15,
+          "frame" : "{{120, 224}, {80, 32}}",
+          "title" : "",
+          "uuid" : "80B39A1D-0BC2-4CB9-A4A1-81C5EC4A24B8",
+          "font_bold" : true,
+          "class" : "Button",
+          "name" : "m20p",
+          "image_name" : "iob:plus_round_24"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{262, 370}, {52, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "self.tapBtn",
+          "font_size" : 15,
+          "frame" : "{{120, 224}, {80, 32}}",
+          "title" : "",
+          "uuid" : "80B39A1D-0BC2-4CB9-A4A1-81C5EC4A24B8",
+          "font_bold" : true,
+          "class" : "Button",
+          "name" : "m10p",
+          "image_name" : "iob:plus_round_24"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 450}, {32, 31}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{85, 224}, {150, 32}}",
+          "uuid" : "90AC4138-B397-479E-BF8D-EB68BA33F1E4",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "0",
+          "name" : "5Txt",
+          "font_size" : 18
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{44, 450}, {52, 31}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "self.tapBtn",
+          "image_name" : "iob:minus_round_24",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "title" : "",
+          "uuid" : "80B39A1D-0BC2-4CB9-A4A1-81C5EC4A24B8",
+          "font_bold" : true,
+          "class" : "Button",
+          "font_size" : 15,
+          "name" : "m5m"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{104, 450}, {52, 31}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "self.tapBtn",
+          "image_name" : "iob:plus_round_24",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "title" : "",
+          "uuid" : "80B39A1D-0BC2-4CB9-A4A1-81C5EC4A24B8",
+          "font_bold" : true,
+          "class" : "Button",
+          "font_size" : 15,
+          "name" : "m5p"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{261, 166}, {53, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "mbgTimeTxt",
+          "frame" : "{{85, 234}, {150, 32}}",
+          "uuid" : "609317DD-5B6F-4C10-9A26-71C73DBA0AC7",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "0",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{261, 248}, {53, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{85, 234}, {150, 32}}",
+          "uuid" : "609317DD-5B6F-4C10-9A26-71C73DBA0AC7",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "0",
+          "name" : "coneTimeTxt",
+          "font_size" : 18
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{263, 450}, {51, 31}}",
+        "class" : "Switch",
+        "attributes" : {
+          "frame" : "{{135, 235}, {51, 31}}",
+          "value" : true,
+          "class" : "Switch",
+          "name" : "pswitch",
+          "uuid" : "F72C453F-F92D-4326-B8A1-7F41D8A29F19"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {320, 500}}",
+    "class" : "View",
+    "attributes" : {
+      "name" : "Auton",
+      "enabled" : true,
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
